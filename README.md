@@ -1,4 +1,3 @@
 ## Hello Guys 👋
-
-### I am Denna Mandela 
+I am Denna Mandela 
  
