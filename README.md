@@ -1,6 +1,6 @@
 ## Hello Guys 👋
 
-<img><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></img>
+(https://img.shields.io/badge/SUPPORT%20AT-GITHUB-lightgrey?style=for-the-badge&logo=github)
 
 I am Denna Mandela
 
