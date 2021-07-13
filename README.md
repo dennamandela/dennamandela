@@ -1,6 +1,6 @@
 ## Hello Guys 👋
 
-?SUPPORT AT=GITHUB&logo=#181717?link=https://github.com/dennamandela/
+/appveyor/build/:dennamandela/:repo
 
 I am Denna Mandela
 
